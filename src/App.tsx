@@ -65,7 +65,7 @@ const TitleSlide = () => (
           Forms of Business Organization
         </h1>
         <p className="text-xl md:text-2xl font-light tracking-widest uppercase opacity-60">
-          Detailed Study of GSEB Class 11 • Chapters 2 & 3
+          Detailed Study of GSEB Class 11 • Chapters 5 & 6
         </p>
       </div>
 
